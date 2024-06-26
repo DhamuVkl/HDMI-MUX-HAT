@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CLK_IN1_P Pin=U1B-15
+Removed Pin From Net: NetName=CLK_IN1_N Pin=U1B-16
+Removed Pin From Net: NetName=CLK_OUT_P Pin=U1C-15
+Removed Pin From Net: NetName=CLK_OUT_N Pin=U1C-16
+Removed Pin From Net: NetName=CLK_IN2_P Pin=U2B-15
+Removed Pin From Net: NetName=CLK_IN2_N Pin=U2B-16
+Added Pin To Net: NetName=CLK_IN1_N Pin=U1B-15
+Added Pin To Net: NetName=CLK_IN1_P Pin=U1B-16
+Added Pin To Net: NetName=CLK_OUT_N Pin=U1C-15
+Added Pin To Net: NetName=CLK_OUT_P Pin=U1C-16
+Added Pin To Net: NetName=CLK_IN2_N Pin=U2B-15
+Added Pin To Net: NetName=CLK_IN2_P Pin=U2B-16

@@ -1,0 +1,159 @@
+Removed Pin From Net: NetName=D2_IN1_P Pin=J1B-1
+Removed Pin From Net: NetName=GND Pin=J1B-2
+Removed Pin From Net: NetName=D2_IN1_N Pin=J1B-3
+Removed Pin From Net: NetName=D1_IN1_P Pin=J1B-4
+Removed Pin From Net: NetName=GND Pin=J1B-5
+Removed Pin From Net: NetName=D1_IN1_N Pin=J1B-6
+Removed Pin From Net: NetName=D0_IN1_P Pin=J1B-7
+Removed Pin From Net: NetName=GND Pin=J1B-8
+Removed Pin From Net: NetName=D0_IN1_N Pin=J1B-9
+Removed Pin From Net: NetName=CLK_IN1_P Pin=J1B-10
+Removed Pin From Net: NetName=GND Pin=J1B-11
+Removed Pin From Net: NetName=CLK_IN1_N Pin=J1B-12
+Removed Pin From Net: NetName=HD_CEC_IN1 Pin=J1B-13
+Removed Pin From Net: NetName=HEAC+1 Pin=J1B-14
+Removed Pin From Net: NetName=HD_SCL_IN1 Pin=J1B-15
+Removed Pin From Net: NetName=HD_SDA_IN1 Pin=J1B-16
+Removed Pin From Net: NetName=GND Pin=J1B-17
+Removed Pin From Net: NetName=HD_PWR1 Pin=J1B-18
+Removed Pin From Net: NetName=HD_HPD_IN1 Pin=J1B-19
+Removed Pin From Net: NetName=HEAC+1 Pin=J1B-Shell
+Removed Pin From Net: NetName=HEAC+1 Pin=J1B-Shell
+Removed Pin From Net: NetName=HEAC+1 Pin=J1B-Shell
+Removed Pin From Net: NetName=HEAC+1 Pin=J1B-Shell
+Removed Pin From Net: NetName=D2_OUT_P Pin=J1C-1
+Removed Pin From Net: NetName=GND Pin=J1C-2
+Removed Pin From Net: NetName=D2_OUT_N Pin=J1C-3
+Removed Pin From Net: NetName=D1_OUT_P Pin=J1C-4
+Removed Pin From Net: NetName=GND Pin=J1C-5
+Removed Pin From Net: NetName=D1_OUT_N Pin=J1C-6
+Removed Pin From Net: NetName=D0_OUT_P Pin=J1C-7
+Removed Pin From Net: NetName=GND Pin=J1C-8
+Removed Pin From Net: NetName=D0_OUT_N Pin=J1C-9
+Removed Pin From Net: NetName=CLK_OUT_P Pin=J1C-10
+Removed Pin From Net: NetName=GND Pin=J1C-11
+Removed Pin From Net: NetName=CLK_OUT_N Pin=J1C-12
+Removed Pin From Net: NetName=HD_CEC_OUT Pin=J1C-13
+Removed Pin From Net: NetName=HEAC+0 Pin=J1C-14
+Removed Pin From Net: NetName=HD_SCL_OUT Pin=J1C-15
+Removed Pin From Net: NetName=HD_SDA_OUT Pin=J1C-16
+Removed Pin From Net: NetName=GND Pin=J1C-17
+Removed Pin From Net: NetName=HD_PWR0 Pin=J1C-18
+Removed Pin From Net: NetName=HD_HPD_OUT Pin=J1C-19
+Removed Pin From Net: NetName=HEAC+0 Pin=J1C-Shell
+Removed Pin From Net: NetName=HEAC+0 Pin=J1C-Shell
+Removed Pin From Net: NetName=HEAC+0 Pin=J1C-Shell
+Removed Pin From Net: NetName=HEAC+0 Pin=J1C-Shell
+Removed Pin From Net: NetName=D2_IN2_P Pin=J2B-1
+Removed Pin From Net: NetName=GND Pin=J2B-2
+Removed Pin From Net: NetName=D2_IN2_N Pin=J2B-3
+Removed Pin From Net: NetName=D1_IN2_P Pin=J2B-4
+Removed Pin From Net: NetName=GND Pin=J2B-5
+Removed Pin From Net: NetName=D1_IN2_N Pin=J2B-6
+Removed Pin From Net: NetName=D0_IN2_P Pin=J2B-7
+Removed Pin From Net: NetName=GND Pin=J2B-8
+Removed Pin From Net: NetName=D0_IN2_N Pin=J2B-9
+Removed Pin From Net: NetName=CLK_IN2_P Pin=J2B-10
+Removed Pin From Net: NetName=GND Pin=J2B-11
+Removed Pin From Net: NetName=CLK_IN2_N Pin=J2B-12
+Removed Pin From Net: NetName=HD_CEC_IN2 Pin=J2B-13
+Removed Pin From Net: NetName=HEAC+2 Pin=J2B-14
+Removed Pin From Net: NetName=HD_SCL_IN2 Pin=J2B-15
+Removed Pin From Net: NetName=HD_SDA_IN2 Pin=J2B-16
+Removed Pin From Net: NetName=GND Pin=J2B-17
+Removed Pin From Net: NetName=HD_PWR2 Pin=J2B-18
+Removed Pin From Net: NetName=HD_HPD_IN2 Pin=J2B-19
+Removed Pin From Net: NetName=HEAC+2 Pin=J2B-Shell
+Removed Pin From Net: NetName=HEAC+2 Pin=J2B-Shell
+Removed Pin From Net: NetName=HEAC+2 Pin=J2B-Shell
+Removed Pin From Net: NetName=HEAC+2 Pin=J2B-Shell
+Removed Member From Class: ClassName=U_HDMI-IN Member=J1B
+Removed Member From Class: ClassName=U_HDMI-OUT Member=J1C
+Removed Member From Class: ClassName=U_HDMI-IN Member=J2B
+Added Component: Designator=HJ1B(HDMI)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-208658-1051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "710-685119134923"; VariantName = "[No Variations]"
+Added Component: Designator=HJ1C(HDMI)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-208658-1051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "710-685119134923"; VariantName = "[No Variations]"
+Added Component: Designator=HJ2B(HDMI)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-208658-1051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "710-685119134923"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D2_IN1_P Pin=HJ1B-1
+Added Pin To Net: NetName=GND Pin=HJ1B-2
+Added Pin To Net: NetName=D2_IN1_N Pin=HJ1B-3
+Added Pin To Net: NetName=D1_IN1_P Pin=HJ1B-4
+Added Pin To Net: NetName=GND Pin=HJ1B-5
+Added Pin To Net: NetName=D1_IN1_N Pin=HJ1B-6
+Added Pin To Net: NetName=D0_IN1_P Pin=HJ1B-7
+Added Pin To Net: NetName=GND Pin=HJ1B-8
+Added Pin To Net: NetName=D0_IN1_N Pin=HJ1B-9
+Added Pin To Net: NetName=CLK_IN1_P Pin=HJ1B-10
+Added Pin To Net: NetName=GND Pin=HJ1B-11
+Added Pin To Net: NetName=CLK_IN1_N Pin=HJ1B-12
+Added Pin To Net: NetName=HD_CEC_IN1 Pin=HJ1B-13
+Added Pin To Net: NetName=HEAC+1 Pin=HJ1B-14
+Added Pin To Net: NetName=HD_SCL_IN1 Pin=HJ1B-15
+Added Pin To Net: NetName=HD_SDA_IN1 Pin=HJ1B-16
+Added Pin To Net: NetName=GND Pin=HJ1B-17
+Added Pin To Net: NetName=HD_PWR1 Pin=HJ1B-18
+Added Pin To Net: NetName=HD_HPD_IN1 Pin=HJ1B-19
+Added Pin To Net: NetName=HEAC+1 Pin=HJ1B-Shell
+Added Pin To Net: NetName=HEAC+1 Pin=HJ1B-Shell
+Added Pin To Net: NetName=HEAC+1 Pin=HJ1B-Shell
+Added Pin To Net: NetName=HEAC+1 Pin=HJ1B-Shell
+Added Pin To Net: NetName=D2_OUT_P Pin=HJ1C-1
+Added Pin To Net: NetName=GND Pin=HJ1C-2
+Added Pin To Net: NetName=D2_OUT_N Pin=HJ1C-3
+Added Pin To Net: NetName=D1_OUT_P Pin=HJ1C-4
+Added Pin To Net: NetName=GND Pin=HJ1C-5
+Added Pin To Net: NetName=D1_OUT_N Pin=HJ1C-6
+Added Pin To Net: NetName=D0_OUT_P Pin=HJ1C-7
+Added Pin To Net: NetName=GND Pin=HJ1C-8
+Added Pin To Net: NetName=D0_OUT_N Pin=HJ1C-9
+Added Pin To Net: NetName=CLK_OUT_P Pin=HJ1C-10
+Added Pin To Net: NetName=GND Pin=HJ1C-11
+Added Pin To Net: NetName=CLK_OUT_N Pin=HJ1C-12
+Added Pin To Net: NetName=HD_CEC_OUT Pin=HJ1C-13
+Added Pin To Net: NetName=HEAC+0 Pin=HJ1C-14
+Added Pin To Net: NetName=HD_SCL_OUT Pin=HJ1C-15
+Added Pin To Net: NetName=HD_SDA_OUT Pin=HJ1C-16
+Added Pin To Net: NetName=GND Pin=HJ1C-17
+Added Pin To Net: NetName=HD_PWR0 Pin=HJ1C-18
+Added Pin To Net: NetName=HD_HPD_OUT Pin=HJ1C-19
+Added Pin To Net: NetName=HEAC+0 Pin=HJ1C-Shell
+Added Pin To Net: NetName=HEAC+0 Pin=HJ1C-Shell
+Added Pin To Net: NetName=HEAC+0 Pin=HJ1C-Shell
+Added Pin To Net: NetName=HEAC+0 Pin=HJ1C-Shell
+Added Pin To Net: NetName=D2_IN2_P Pin=HJ2B-1
+Added Pin To Net: NetName=GND Pin=HJ2B-2
+Added Pin To Net: NetName=D2_IN2_N Pin=HJ2B-3
+Added Pin To Net: NetName=D1_IN2_P Pin=HJ2B-4
+Added Pin To Net: NetName=GND Pin=HJ2B-5
+Added Pin To Net: NetName=D1_IN2_N Pin=HJ2B-6
+Added Pin To Net: NetName=D0_IN2_P Pin=HJ2B-7
+Added Pin To Net: NetName=GND Pin=HJ2B-8
+Added Pin To Net: NetName=D0_IN2_N Pin=HJ2B-9
+Added Pin To Net: NetName=CLK_IN2_P Pin=HJ2B-10
+Added Pin To Net: NetName=GND Pin=HJ2B-11
+Added Pin To Net: NetName=CLK_IN2_N Pin=HJ2B-12
+Added Pin To Net: NetName=HD_CEC_IN2 Pin=HJ2B-13
+Added Pin To Net: NetName=HEAC+2 Pin=HJ2B-14
+Added Pin To Net: NetName=HD_SCL_IN2 Pin=HJ2B-15
+Added Pin To Net: NetName=HD_SDA_IN2 Pin=HJ2B-16
+Added Pin To Net: NetName=GND Pin=HJ2B-17
+Added Pin To Net: NetName=HD_PWR2 Pin=HJ2B-18
+Added Pin To Net: NetName=HD_HPD_IN2 Pin=HJ2B-19
+Added Pin To Net: NetName=HEAC+2 Pin=HJ2B-Shell
+Added Pin To Net: NetName=HEAC+2 Pin=HJ2B-Shell
+Added Pin To Net: NetName=HEAC+2 Pin=HJ2B-Shell
+Added Pin To Net: NetName=HEAC+2 Pin=HJ2B-Shell
+Added Member To Class: ClassName=U_HDMI-IN Member=Component HJ1B CMP-1502-00169-3
+Added Member To Class: ClassName=U_HDMI-OUT Member=Component HJ1C CMP-1502-00169-3
+Added Member To Class: ClassName=U_HDMI-IN Member=Component HJ2B CMP-1502-00169-3

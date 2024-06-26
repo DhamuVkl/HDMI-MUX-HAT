@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SRC_SEL2 Pin=U1A-33
+Added Component: Designator=JH2A(JUMPER-2PIN-BLACK)
+Added Pin To Net: NetName=SRC_SEL2 Pin=JH2A-2
+Change Net Name : Old Net Name=SRC_SEL2 New Net Name=+3V3
+Added Pin To Net: NetName=SRC_SEL2 Pin=JH2A-1
+Added Pin To Net: NetName=SRC_SEL2 Pin=U1A-33
+Added Net: Name=SRC_SEL2
+Added Member To Class: ClassName=U_BASE Member=Component JH2A 2PIN-JUMPER-BLACK
+Added Rule: Name=Schematic Supply Nets

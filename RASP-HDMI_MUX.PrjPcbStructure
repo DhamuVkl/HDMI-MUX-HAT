@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=MAIN.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_BASE|SchDesignator=U_BASE|FileName=BASE.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=BASE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_HDMI-IN|SchDesignator=U_HDMI-IN|FileName=HDMI-IN.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=HDMI-IN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_HDMI-OUT|SchDesignator=U_HDMI-OUT|FileName=HDMI-OUT.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=HDMI-OUT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_POWER|SchDesignator=U_POWER|FileName=POWER.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

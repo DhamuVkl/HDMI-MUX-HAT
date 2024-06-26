@@ -1,0 +1,99 @@
+Added Component: Designator=U1A(PAG0064A_L)
+Add component (AddParameter): Name = "Clock P-P Jitter(Max)(ps)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TMDS251&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "SamplesURL:http://www.ti.com/product/tmds251#samples"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data P-P Jitter(Max)(ps)"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Throughput(MB/s)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLLS852A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driver (RL)(Ohms)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Driver tpd(ns)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESD HBM(kV)"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC(Max)(mA)"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inter-Pair Skew(Max)(ps)"; Value = "65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Intra-Pair Skew(Max)(ps)"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of DisplayPort Dual Mode Inputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of DisplayPort Dual Mode Outputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of TMDS Inputs"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of TMDS Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Parallel Inputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Parallel Outputs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "64-Pin Thin Quad Flat Pack 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PAG0064A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TMDS251PAGR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PLL Frequency(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver (Vth)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver tpd(ns)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Serial Data Receiver Channels"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Serial Data Transmitter Channels"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "DVI/HDMI Repeater/Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(s)(V)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Adaptive Equalization"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Input Equalization"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMDS Output De-emphasis"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transmitter"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type of Line Circuit"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1A-3
+Added Pin To Net: NetName=+3V3 Pin=U1A-6
+Added Pin To Net: NetName=GND Pin=U1A-9
+Added Pin To Net: NetName=+3V3 Pin=U1A-12
+Added Pin To Net: NetName=GND Pin=U1A-15
+Added Pin To Net: NetName=NetR1A_2 Pin=U1A-16
+Added Pin To Net: NetName=D2_OUT_P Pin=U1A-17
+Added Pin To Net: NetName=D2_OUT_N Pin=U1A-18
+Added Pin To Net: NetName=+3V3 Pin=U1A-19
+Added Pin To Net: NetName=D1_OUT_P Pin=U1A-20
+Added Pin To Net: NetName=D1_OUT_N Pin=U1A-21
+Added Pin To Net: NetName=GND Pin=U1A-22
+Added Pin To Net: NetName=D0_OUT_P Pin=U1A-23
+Added Pin To Net: NetName=D0_OUT_N Pin=U1A-24
+Added Pin To Net: NetName=+3V3 Pin=U1A-25
+Added Pin To Net: NetName=CLK_OUT_P Pin=U1A-26
+Added Pin To Net: NetName=CLK_OUT_N Pin=U1A-27
+Added Pin To Net: NetName=GND Pin=U1A-28
+Added Pin To Net: NetName=SCL_OUT Pin=U1A-29
+Added Pin To Net: NetName=SDA_OUT Pin=U1A-30
+Added Pin To Net: NetName=HPD_OUT Pin=U1A-31
+Added Pin To Net: NetName=SRC_SEL1 Pin=U1A-32
+Added Pin To Net: NetName=SRC_SEL2 Pin=U1A-33
+Added Pin To Net: NetName=HDMI_EQ Pin=U1A-34
+Added Pin To Net: NetName=HPD_IN1 Pin=U1A-35
+Added Pin To Net: NetName=SDA_IN1 Pin=U1A-36
+Added Pin To Net: NetName=SCL_IN1 Pin=U1A-37
+Added Pin To Net: NetName=CLK_IN1_N Pin=U1A-38
+Added Pin To Net: NetName=CLK_IN1_P Pin=U1A-39
+Added Pin To Net: NetName=+3V3 Pin=U1A-40
+Added Pin To Net: NetName=D0_IN1_N Pin=U1A-41
+Added Pin To Net: NetName=D0_IN1_P Pin=U1A-42
+Added Pin To Net: NetName=GND Pin=U1A-43
+Added Pin To Net: NetName=D1_IN1_N Pin=U1A-44
+Added Pin To Net: NetName=D1_IN1_P Pin=U1A-45
+Added Pin To Net: NetName=+3V3 Pin=U1A-46
+Added Pin To Net: NetName=D2_IN1_N Pin=U1A-47
+Added Pin To Net: NetName=D2_IN1_P Pin=U1A-48
+Added Pin To Net: NetName=SOURCE Pin=U1A-49
+Added Pin To Net: NetName=HPD_IN2 Pin=U1A-50
+Added Pin To Net: NetName=SDA_IN2 Pin=U1A-51
+Added Pin To Net: NetName=SCL_IN2 Pin=U1A-52
+Added Pin To Net: NetName=CLK_IN2_N Pin=U1A-53
+Added Pin To Net: NetName=CLK_IN2_P Pin=U1A-54
+Added Pin To Net: NetName=+3V3 Pin=U1A-55
+Added Pin To Net: NetName=D0_IN2_N Pin=U1A-56
+Added Pin To Net: NetName=D0_IN2_P Pin=U1A-57
+Added Pin To Net: NetName=GND Pin=U1A-58
+Added Pin To Net: NetName=D1_IN2_N Pin=U1A-59
+Added Pin To Net: NetName=D1_IN2_P Pin=U1A-60
+Added Pin To Net: NetName=+3V3 Pin=U1A-61
+Added Pin To Net: NetName=D2_IN2_N Pin=U1A-62
+Added Pin To Net: NetName=D2_IN2_P Pin=U1A-63
+Added Member To Class: ClassName=U_BASE Member=Component U1A TMDS251PAGR
