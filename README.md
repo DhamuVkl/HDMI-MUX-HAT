@@ -1,2 +1,16 @@
 # HDMI-MUX-HAT
- HDMI-MUX HAT is specifically designed for Raspberry Pi to control HDMI signals.
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-01.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-02.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-sh-0.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-sh-1.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-sh-2.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-sh-3.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-sh-4.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-03.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-04.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-05.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-06.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-07.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-08.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-09.png?strip=info&w=1800)
+![Screen Shot](https://dharageshtech.wordpress.com/wp-content/uploads/2024/06/hdmi-mux-10.png?strip=info&w=1800)
